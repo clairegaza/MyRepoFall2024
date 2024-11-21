@@ -1,6 +1,7 @@
 class Student:
 
     def __init__(self, fname, lname, id):
+        # comment placed here
         self.fname = fname
         self.lname = lname
         self.id = id
